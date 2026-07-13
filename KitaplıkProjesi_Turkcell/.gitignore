@@ -1,0 +1,16 @@
+﻿# Derleme (Build) çıktıları
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+bin/
+obj/
+
+# Visual Studio'nun oluşturduğu yerel dosyalar
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
